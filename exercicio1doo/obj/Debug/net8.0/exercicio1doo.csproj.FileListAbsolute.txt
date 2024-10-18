@@ -1,0 +1,17 @@
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\bin\Debug\net8.0\exercicio1doo.exe
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\bin\Debug\net8.0\exercicio1doo.deps.json
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\bin\Debug\net8.0\exercicio1doo.runtimeconfig.json
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\bin\Debug\net8.0\exercicio1doo.dll
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\bin\Debug\net8.0\exercicio1doo.pdb
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.csproj.AssemblyReference.cache
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.AssemblyInfoInputs.cache
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.AssemblyInfo.cs
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.csproj.CoreCompileInputs.cache
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercici.E30ED9CC.Up2Date
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.dll
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\refint\exercicio1doo.dll
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.pdb
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\exercicio1doo.genruntimeconfig.cache
+C:\Users\20201bsi0150\RiderProjects\exercicio1doo\exercicio1doo\obj\Debug\net8.0\ref\exercicio1doo.dll
